@@ -8,5 +8,5 @@
 - 😄 Pronouns: he
 
 <picture>
-<img src="picture.png">
+![Main (1)](https://github.com/user-attachments/assets/0d213ba2-444f-475a-839b-1b8b245f26a6)
 </picture>
